@@ -1,10 +1,10 @@
-# Cahier des Charges - Baobab Academy
+# Cahier des Charges - FIBEM Academy
 
 ## 1. Présentation du Projet
 
 ### 1.1 Contexte
 
-Développement de Baobab Academy, une plateforme d'apprentissage en ligne permettant la création et la diffusion de contenus éducatifs. La plateforme vise à connecter des formateurs avec des apprenants dans un environnement numérique structuré et accessible.
+Développement de FIBEM Academy, une plateforme d'apprentissage en ligne permettant la création et la diffusion de contenus éducatifs. La plateforme vise à connecter des formateurs avec des apprenants dans un environnement numérique structuré et accessible.
 
 ### 1.2 Objectifs Généraux
 
@@ -40,7 +40,7 @@ Développement d'une solution web complète incluant interface d'administration,
 
 ### 2.1.1 Administrateur
 
-**Rôle** : Gestionnaire de Baobab Academy et créateur de contenu
+**Rôle** : Gestionnaire de FIBEM Academy et créateur de contenu
 **Objectifs** :
 
 - Créer et organiser des cours structurés
