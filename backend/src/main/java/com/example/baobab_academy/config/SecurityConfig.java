@@ -63,6 +63,7 @@ public class SecurityConfig {
                 .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
                 .authorizeHttpRequests(authz -> authz
                         // Endpoints publics
+                        .requestMatchers("/", "/actuator/**").permitAll() // Autorise le health check de Render
                         .requestMatchers("/api/auth/**").permitAll()
                         .requestMatchers("/api/courses/public/**").permitAll()
                         .requestMatchers("/api/categories/**").permitAll()
