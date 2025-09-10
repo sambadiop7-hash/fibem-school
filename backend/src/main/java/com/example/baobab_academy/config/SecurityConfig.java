@@ -108,7 +108,8 @@ public class SecurityConfig {
                     "http://localhost:3000",
                     "http://localhost:3001",
                     "http://localhost:5173",
-                    "https://baobab-academy-api-production.up.railway.app/api"
+                    "https://fibem-school.onrender.com",
+                    "https://fibem-school.vercel.app"
             ));
         }
 
